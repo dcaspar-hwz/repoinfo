@@ -7,7 +7,7 @@ Prerequisites
 - Git installed and available on PATH
 - (Optional for tests) pytest.
 
-Quick start
+## Quick start
 
 Run without installing the package by adding `src/` to PYTHONPATH and using the module entrypoint:
 
